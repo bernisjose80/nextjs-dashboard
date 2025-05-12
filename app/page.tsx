@@ -17,7 +17,7 @@ export default function Page() {
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Bienvenidos a Tic 99.com</strong> Esto es un prototipo de la pagina inicial{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              Aqui puedes registrarte como usuario de nuestra empresa
             </a>
             , brought to you by Vercel.
           </p>
